@@ -15,5 +15,5 @@ Sharpen my problem solving skills, build a stronger foundation for competitive p
 
 ---
 
-⚡ Author: Mohamed Elsayed  
-📚 Course: ProgrammingAdvices – Algorithms & Problem Solving Level 3  
+⚡ Author : Mohamed Elsayed  
+📚 Course : ProgrammingAdvices – Algorithms & Problem Solving Level 3  
