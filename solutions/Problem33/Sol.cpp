@@ -8,7 +8,7 @@ using namespace std;
 
 int main() {
 	string s;
-	cout << "Entre the Character : ";
+	cout << "Entre the String : ";
 	getline(cin, s);
 
 	int count = 0;
