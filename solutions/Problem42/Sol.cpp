@@ -5,19 +5,18 @@ Problem#42
 #include <iostream>
 #include <string>
 #include <vector>
-
 using namespace std;
 
 int main() {
     
-    string s = "Welcome to Jordan , Jordan is a nice country";
-    string to_find = "Jordan";
-    string replace_with = "USA";
+    string s = "Welcome to USA , USA is a Great Country";
+    string to_find = "USA";
+    string replace_with = "Egypt";
 
    
     size_t start_pos = 0;
 
-    cout << "Original String: " << s << endl;
+    cout << "Original String : " << s << endl;
 
     
     while ((start_pos = s.find(to_find, start_pos)) != string::npos) {
@@ -28,8 +27,8 @@ int main() {
         
         start_pos += replace_with.length();
     }
-
-    cout << "String After Replace: " << s << endl;
+    cout << endl << endl;
+    cout << "String After Replace : " << s << endl;
 
     
 }
